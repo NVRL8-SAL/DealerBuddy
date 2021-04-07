@@ -11,7 +11,7 @@ After we had fun updating it and using it internally, is now time to share it wi
 
 ### Notes
 
-- GPL 3 
+- GPL 2 
 - Assist Dealers and Hobbists
 - Ionic, Angular, TypeScript
 - Many built-in features..
